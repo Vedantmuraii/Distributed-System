@@ -1,2 +1,2 @@
 # Distributed-System
-pom.xml, leaders election 
+pom.xml, leaders election  first make a connection 
